@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terre8055" alt="terre8055" /></a> </p>
 
-- 💬 Ask me about **Javascript, React, JQuery**
+- 💬 Ask me about **C, Javascript, React, ExpressJS, MongoDB**
 
 - 📫 How to reach me **michaelappiah2018@icloud.com**
 
