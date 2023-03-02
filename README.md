@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@michaeladev](https://medium.com/@michaeladev)
 
-- 💬 Ask me about **Javascript, React, C/Cpp, ExpressJS, MongoDB**
+- 💬 Ask me about **Javascript, React, C/Cpp, ExpressJS, MongoDB, Postgres**
 
 - 📫 How to reach me **michaelappiah2018@icloud.com**
 
-- ⚡ Fun fact **I am Dwight Shrute clone**
+- ⚡ Fun fact **I am Dwight Shrute**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
