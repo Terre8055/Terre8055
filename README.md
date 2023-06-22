@@ -1,13 +1,27 @@
-<h1 style="font-family:script;" align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-, I'm Mike</h1>
-<img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/Zja3ZqokBBM0dTAa1N/giphy.gif">
+<h1 align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Mike</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terre8055&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Terre8055&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Mike's github stats" /></p>
+<p>As a software developer, I am passionate about using my skills to build innovative applications that solve challenging problems.</p>
 
+<p>I have a solid understanding of various technologies, including:</p>
 
-- 📝 I regularly write articles on [https://medium.com/@michaeladev](https://medium.com/@michaeladev)
+<ul>
+  <li>Frontend development (ReactJs)</li>
+  <li>Server-side development (Django, Express)</li>
+  <li>Relational databases (MySQL, PostgreSQL)</li>
+  <li>NoSQL databases (MongoDB)</li>
+  <li>Version control (Git, GitHub)</li>
+</ul>
 
-- 📫 How to reach me **michaelappiah2018@icloud.com**
+<p>In addition to coding, I enjoy sharing my knowledge through writing. You can find my articles on:</p>
 
+- 📝 Medium: [https://medium.com/@michaeladev](https://medium.com/@michaeladev)
 
+<p>If you'd like to get in touch, you can reach me via email:</p>
+
+- 📫 Email: michaelappiah2018@icloud.com
+
+<p>Feel free to connect with me on LinkedIn:</p>
+
+- 💼 LinkedIn: [https://www.linkedin.com/michael-appiah-dankwah](https://www.linkedin.com/michael-appiah-dankwah)
+
+<p>I'm always open to exciting projects and collaborations. Let's build something great together!</p>
