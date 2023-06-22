@@ -22,6 +22,6 @@
 
 <p>Feel free to connect with me on LinkedIn:</p>
 
-- 💼 LinkedIn: [https://www.linkedin.com/michael-appiah-dankwah](https://www.linkedin.com/michael-appiah-dankwah)
+- 💼 LinkedIn: [https://www.linkedin.com/in/michael-appiah-dankwah](https://www.linkedin.com/in/michael-appiah-dankwah)
 
 <p>I'm always open to exciting projects and collaborations. Let's build something great together!</p>
