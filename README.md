@@ -10,7 +10,7 @@
   <li>Relational databases (MySQL, PostgreSQL)</li>
   <li>NoSQL databases (MongoDB)</li>
   <li>Version control (Git, GitHub)</li>
-  <li>Scripting and Linux SysAdmi(Bash)</li>
+  <li>Scripting and Linux SysAdmin (Bash)</li>
 </ul>
 
 <p>In addition to coding, I enjoy sharing my knowledge through writing. You can find my articles on:</p>
