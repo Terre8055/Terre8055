@@ -13,6 +13,8 @@
   <li>Scripting and Linux SysAdmin (Bash)</li>
 </ul>
 
+[![An image of @terre8055's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/terre8055)](https://holopin.io/@terre8055)
+
 <p>In addition to coding, I enjoy sharing my knowledge through writing. You can find my articles on:</p>
 
 - 📝 Medium: [https://medium.com/@michaeladev](https://medium.com/@michaeladev)
