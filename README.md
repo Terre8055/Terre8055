@@ -8,7 +8,7 @@
   <li>Frontend development (ReactJs)</li>
   <li>Server-side development (Django, Express)</li>
   <li>Relational databases (MySQL, PostgreSQL)</li>
-  <li>NoSQL databases (MongoDB)</li>
+  <li>NoSQL databases (MongoDB, sus)</li>
   <li>Version control (Git, GitHub)</li>
   <li>Scripting and Linux SysAdmin (Bash)</li>
 </ul>
