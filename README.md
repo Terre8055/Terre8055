@@ -8,4 +8,4 @@ cat <<- __EOF__
 __EOF__
 ```
 
-[![An image of @terre8055's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/terre8055)](https://holopin.io/@terre8055)
+<img src="//https://holopin.me/terre8055" width="100" height="100" alt="An image of @terre8055's Holopin badges, which is a link to view their full Holopin profile">
