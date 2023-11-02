@@ -5,7 +5,9 @@ cat <<- __EOF__
   Postgres/MongoDB/SusDB/Redis
   GitHub/Git
   Scripting (Bash, Python)
+  Systems Design and Arch
+  Data Privacy, Regulatory and Compliance
 __EOF__
 ```
 
-<img src="//https://holopin.me/terre8055" width="100" height="100" alt="An image of @terre8055's Holopin badges, which is a link to view their full Holopin profile">
+[![An image of @terre8055's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/terre8055)](https://holopin.io/@terre8055)
