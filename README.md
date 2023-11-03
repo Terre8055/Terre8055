@@ -10,4 +10,4 @@ cat <<- __EOF__
 __EOF__
 ```
 
-[![An image of @terre8055's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/terre8055)](https://holopin.io/@terre8055)
+[Resume](https://michael_appiah_dankwah_cv.tiiny.site/)
