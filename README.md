@@ -10,4 +10,4 @@ cat <<- __EOF__
 __EOF__
 ```
 
-[My Resume](https://michael_appiah_dankwah_cv.tiiny.site/)
+[My Resume](https://michael-appiah-dankwah.tiiny.site/)
