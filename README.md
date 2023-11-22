@@ -10,5 +10,3 @@ cat <<- __EOF__
   Data Privacy, Regulatory and Compliance
 __EOF__
 ```
-
-[My Resume](https://michael-appiah-dankwah.tiiny.site/)
