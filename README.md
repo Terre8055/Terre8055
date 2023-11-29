@@ -1,8 +1,8 @@
 ```bash
 cat <<- __EOF__
   ReactJs
-  Django/Express/Bottle
-  Postgres/MongoDB/SusDB/Redis
+  Django/Express/Bottle/Flask
+  Postgres/MongoDB/SusDB/Redis/MySql
   GitHub/Git
   Scripting (Bash, Python)
   Docker
