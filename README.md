@@ -5,7 +5,7 @@ cat <<- __EOF__
   Postgres/MongoDB/SusDB/Redis/MySql
   GitHub/Git
   Scripting (Bash, Python)
-  Docker/AWS
+  Docker/AWS/Jenkins/Terraform
   Systems Design and Arch
   Data Privacy, Regulatory and Compliance
 __EOF__
