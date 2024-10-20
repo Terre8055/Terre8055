@@ -2,7 +2,7 @@
 cat <<- __EOF__
   ReactJs
   Django/Express/Bottle/Flask
-  Postgres/MongoDB/SusDB/Redis/MySql
+  Postgres/MongoDB/Redis/MySql
   GitHub/Git
   Scripting (Bash, Python)
   Docker/Kubernetes/Jenkins/Terraform
