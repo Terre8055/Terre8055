@@ -1,9 +1,8 @@
 ```bash
 cat <<- __EOF__
-  ReactJs
+  Next
   Django/Express/Bottle/Flask
   Postgres/MongoDB/Redis/MySql
-  GitHub/Git
   Scripting (Bash, Python)
   Docker/Kubernetes/Jenkins/Terraform
   AWS/GCP/Azure/DigitalOcean/Flyio
